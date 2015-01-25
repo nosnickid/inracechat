@@ -9,7 +9,7 @@ import acsys
 import math
 
 class InRaceChat:
-    MESSAGES_LIMIT = 5
+    MESSAGES_LIMIT = 15
 
     CHAT_LINE_HEIGHT = 15
 
